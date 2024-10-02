@@ -20,4 +20,4 @@ print(WhoAmI().personal_information())
 print("-------------------------------")
 print(WhoAmI().skill())
 ```
-
+![]()
