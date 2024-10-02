@@ -10,7 +10,7 @@ class WhoAmI():
 
     def skill(self):
         expertise = "Python - Django - Django Rest Framework "
-        to_know = "Git - Github - GitLab - Html - Css - Ajax ... "
+        to_know = "PostgreSQL - Git - Github - GitLab - Html - Css - Ajax ... "
         interest = "Web BackEnd - Network Security"
         courses_completed = "Python - Django - HtmlCss - Git - Network++ - Linux - CEH ... "
         return f"expertise: {expertise}\nto_know: {to_know}\ninterest: {interest}\ncourses_completed: {courses_completed}"
