@@ -6,7 +6,7 @@ class WhoAmI():
         first_name = "Amir Mahdi"
         last_name = "Dehghani"
         age = "May 26, 2004"
-        return f"first_name:{first_name}\nlast_name:{last_name}\nMay 26, 2004:{age}"
+        return f"first_name:{first_name}\nlast_name:{last_name}\ndate of birth:{age}"
 
     def skill(self):
         expertise = "Python - Django - Django Rest Framework "
