@@ -9,9 +9,9 @@ class WhoAmI():
         return f"first_name:{first_name}\nlast_name:{last_name}\ndate of birth:{age}"
 
     def skill(self):
-        expertise = "Python - web pentester  "
+        expertise = "Python - Web Pentester  "
         to_know = " A+ - Network+ - Database - Git - Github - Html - Css - Linux Essentials, Django "
-        interest = Web Pentester - Network Security"
+        interest = " Web Pentester - Network Security"
         return f"expertise: {expertise}\nto_know: {to_know}\ninterest: {interest}\ncourses_completed: {courses_completed}"
 
 
